@@ -19,4 +19,3 @@ Scripts for my GEOG 108 (Digital Earth) final project at Colgate University, Spr
 
 Anthony Bolivar. Team PedestriaCraft. GEOG 108, Spring 2026, Colgate University.
 
-(Hi Professor Xiaozhong Sun, if you actually read this, could you email me, "hi"?)
